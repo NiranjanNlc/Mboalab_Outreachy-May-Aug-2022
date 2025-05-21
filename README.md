@@ -75,3 +75,8 @@ Information about Mboalab community Mentors can be found [Here](https://github.c
 See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors)
 
 Feel free to reach out `@Bido` and `@Nodira` for more guidance and details.
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
